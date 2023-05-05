@@ -1,0 +1,11 @@
+C:\Users\akzuz\Desktop\SRS_1_trinagle\bin\Debug\SRS_1_trinagle.exe.config
+C:\Users\akzuz\Desktop\SRS_1_trinagle\bin\Debug\SRS_1_trinagle.exe
+C:\Users\akzuz\Desktop\SRS_1_trinagle\bin\Debug\SRS_1_trinagle.pdb
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.csproj.AssemblyReference.cache
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.csproj.SuggestedBindingRedirects.cache
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.Form1.resources
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.Properties.Resources.resources
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.csproj.GenerateResource.cache
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.csproj.CoreCompileInputs.cache
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.exe
+C:\Users\akzuz\Desktop\SRS_1_trinagle\obj\Debug\SRS_1_trinagle.pdb
